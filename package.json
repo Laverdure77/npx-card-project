@@ -1,0 +1,27 @@
+{
+  "name": "@laverdure77/npxcard",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laverdure77/npx-card-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laverdure77/npx-card-project/issues"
+  },
+  "homepage": "https://github.com/Laverdure77/npx-card-project#readme",
+  "dependencies": {
+    "@tifftiff/holidates": "^1.1.0",
+    "boxen": "^6.2.1",
+    "chalk": "^4.1.2"
+  }
+}
